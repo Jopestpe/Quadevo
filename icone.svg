@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="voronoi" width="512" height="512">
+  <path class="voronoi_regiao" 
+    d="M512,512L307.20517225921014,512L301.6670230127111,457.9714290897067L512,365.8628507637011Z" 
+    fill="rgb(255, 255, 255)"
+    opacity="1" 
+    transform="scale(1,1)"
+    stroke="rgb(0, 0, 0)"
+    stroke-width="16"
+  />
+  <path class="voronoi_regiao" 
+    d="M0,63.26115841677483L190.24632418301303,342.5558394332612L0,416.3572363182321Z" 
+    fill="rgb(255, 255, 255)" 
+    opacity="1" 
+    transform="scale(1,1)"
+    stroke="rgb(0, 0, 0)"
+    stroke-width="16"
+  />
+  <path class="voronoi_regiao" 
+    d="M0,0L414.4428692330476,0L193.51469527287475,341.792048923804L190.24632418301303,342.5558394332612L0,63.26115841677483Z" 
+    fill="rgb(255, 255, 255)" 
+    opacity="1" 
+    transform="scale(1,1)"
+    stroke="rgb(0, 0, 0)"
+    stroke-width="16"
+  />
+  <path class="voronoi_regiao" 
+    d="M0,512L0,416.3572363182321L190.24632418301303,342.5558394332612L193.51469527287475,341.792048923804L301.6670230127111,457.9714290897067L307.20517225921014,512Z" 
+    fill="rgb(255, 255, 255)" 
+    opacity="1" 
+    transform="scale(1,1)"
+    stroke="rgb(0, 0, 0)"
+    stroke-width="16"
+  />
+  <path class="voronoi_regiao" 
+    d="M512,0L512,365.8628507637011L301.6670230127111,457.9714290897067L193.51469527287475,341.792048923804L414.4428692330476,0Z" 
+    fill="rgb(255, 255, 255)" 
+    opacity="1" 
+    transform="scale(1,1)"
+    stroke="rgb(0, 0, 0)"
+    stroke-width="16"
+  />
+</svg>
