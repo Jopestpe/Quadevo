@@ -85,8 +85,8 @@ body {
 }
 
 .pincel_svg {
-  width: 40px;
-  height: 40px;
+  width: auto;
+  height: var(--altura-4);
   padding: 0;
   border: none;
   background: none;
@@ -94,6 +94,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  aspect-ratio: 1/1;
 }
 
 .pincel_svg svg {
