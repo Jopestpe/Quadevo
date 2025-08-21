@@ -1,5 +1,5 @@
 # Quadevo
-Quadevo é uma pagina para quadros de voronoi
+Quadevo(**Qua**dro **de** **vo**ronoi) é uma pagina para quadros de voronoi
 
 ## Usando
 
